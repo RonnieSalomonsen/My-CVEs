@@ -47,7 +47,7 @@ Barracuda Network Access Client (NAC/VPN) for Windows contains a local privilege
 
 ## CVE-2021-41526
 
-Flexera Revenera InstallShield for Windows prior to version 2021 R2 contains a privilege escalation vulnerability during MSI repair for the MSI built with InstallScript custom action.
+Flexera Revenera InstallShield for Windows prior to version 2021 R2 contains a local privilege escalation vulnerability during MSI repair for the MSI built with InstallScript custom action.
 
 ### References
 
