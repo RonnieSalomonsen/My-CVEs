@@ -58,3 +58,17 @@ Flexera Revenera InstallShield for Windows prior to version 2021 R2 contains a l
 ### PoC:
 
 * N/A
+
+## CVE-2021-30360
+
+Check Point Enterprise Endpoint Security Client for Windows contains a local privilege escalation vulnerability prior to version E86.20
+
+### References
+
+* https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176853
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-30360
+* https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0013/MNDT-2021-0013.md
+
+### PoC:
+
+* N/A
