@@ -66,6 +66,7 @@ Check Point Enterprise Endpoint Security Client for Windows contains a local pri
 ### References
 
 * https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176853
+* https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk142952
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-30360
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0013/MNDT-2021-0013.md
 
