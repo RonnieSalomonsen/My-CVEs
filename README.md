@@ -10,6 +10,7 @@ Check Point Harmony Browse and SandBlast Agent for Browsers for Windows contains
 * https://supportcontent.checkpoint.com/solutions?id=sk175968
 * https://supportcontent.checkpoint.com/solutions?id=sk142952
 * https://www.cve.org/CVERecord?id=CVE-2021-30359
+* https://nvd.nist.gov/vuln/detail/CVE-2021-30359
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0007/MNDT-2021-0007.md
 
 ### PoC:
@@ -25,6 +26,7 @@ BeyondTrust Privilege Management for Windows contains a local privilege escalati
 * https://www.beyondtrust.com/security
 * https://beyondtrustcorp.service-now.com/csm?id=kb_article_view&sysparm_article=KB0016478
 * https://www.cve.org/CVERecord?id=CVE-2021-42254
+* https://nvd.nist.gov/vuln/detail/CVE-2021-42254
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0008/MNDT-2021-0008.md
 
 ### PoC:
@@ -39,6 +41,7 @@ Barracuda Network Access Client (NAC/VPN) for Windows contains a local privilege
 
 * https://campus.barracuda.com/product/networkaccessclient/doc/94539770/release-notes-barracuda-nac-vpn-client-5-2-for-windows/
 * https://www.cve.org/CVERecord?id=CVE-2021-42711
+* https://nvd.nist.gov/vuln/detail/CVE-2021-42711
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0010/MNDT-2021-0010.md
 
 ### PoC:
@@ -53,6 +56,7 @@ Flexera Revenera InstallShield for Windows prior to version 2021 R2 contains a l
 
 * https://community.flexera.com/t5/InstallShield-Knowledge-Base/CVE-2021-41526-Privilege-escalation-vulnerability-during-MSI/ta-p/218137/jump-to/first-unread-message
 * https://www.cve.org/CVERecord?id=CVE-2021-41526
+* https://nvd.nist.gov/vuln/detail/CVE-2021-41526
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0011/MNDT-2021-0011.md
 
 ### PoC:
@@ -68,6 +72,7 @@ Check Point Enterprise Endpoint Security Client for Windows contains a local pri
 * https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176853
 * https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk142952
 * https://www.cve.org/CVERecord?id=CVE-2021-30360
+* https://nvd.nist.gov/vuln/detail/CVE-2021-30360
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0001/MNDT-2022-0001.md
 
 ### PoC:
@@ -84,6 +89,7 @@ Thales SafeNet Agent for Remote Desktop Gateway for Windows contains a local pri
 * https://supportportal.gemalto.com/csm?id=kb_article_view&sys_kb_id=5e62a1181b094110f9dca6886e4bcb9e&sysparm_article=KB0025411
 * https://supportportal.gemalto.com/csm?id=kb_article_view&sys_kb_id=720825d81b894110f9dca6886e4bcb39&sysparm_article=KB0025412
 * https://www.cve.org/CVERecord?id=CVE-2021-42810
+* https://nvd.nist.gov/vuln/detail/CVE-2021-42810
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0002/MNDT-2022-0002.md
 
 ### PoC:
