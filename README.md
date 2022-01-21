@@ -81,7 +81,7 @@ Check Point Enterprise Endpoint Security Client for Windows contains a local pri
 
 ## CVE-2021-42810
 
-Thales SafeNet Agent for Remote Desktop Gateway for Windows contains a local privilege escalation vulnerability prior to version 2.0.4
+Thales SafeNet Agent for Remote Desktop Gateway for Windows contains a local privilege escalation vulnerability prior to version 2.0.3
 
 ### References
 
