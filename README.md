@@ -1,4 +1,3 @@
-# My CVEs
 Yes this repo is purely for bragging purposes. No I'm not ashamed.
 
 ## CVE-2021-30359
