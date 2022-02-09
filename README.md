@@ -1,5 +1,6 @@
 Yes this is purely for bragging purposes. No I'm not ashamed.
 
+
 ## CVE-2021-30359
 
 Check Point Harmony Browse and SandBlast Agent for Browsers for Windows contains a local privilege escalation vulnerability prior to version 90.08.7405.
@@ -15,6 +16,7 @@ Check Point Harmony Browse and SandBlast Agent for Browsers for Windows contains
 ### PoC:
 
 * N/A
+
 
 ## CVE-2021-42254
 
@@ -32,6 +34,7 @@ BeyondTrust Privilege Management for Windows contains a local privilege escalati
 
 * N/A
 
+
 ## CVE-2021-42711
 
 Barracuda Network Access Client (NAC/VPN) for Windows contains a local privilege escalation vulnerability prior to version 5.2.2.
@@ -47,6 +50,7 @@ Barracuda Network Access Client (NAC/VPN) for Windows contains a local privilege
 
 * N/A
 
+
 ## CVE-2021-41526
 
 Flexera Revenera InstallShield for Windows prior to version 2021 R2 contains a local privilege escalation vulnerability during MSI repair for the MSI built with InstallScript custom action.
@@ -61,6 +65,7 @@ Flexera Revenera InstallShield for Windows prior to version 2021 R2 contains a l
 ### PoC:
 
 * N/A
+
 
 ## CVE-2021-30360
 
@@ -78,6 +83,7 @@ Check Point Enterprise Endpoint Security Client for Windows contains a local pri
 
 * N/A
 
+
 ## CVE-2021-42810
 
 Thales SafeNet Agent for Remote Desktop Gateway for Windows contains a local privilege escalation vulnerability prior to version 2.0.3
@@ -90,6 +96,21 @@ Thales SafeNet Agent for Remote Desktop Gateway for Windows contains a local pri
 * https://www.cve.org/CVERecord?id=CVE-2021-42810
 * https://nvd.nist.gov/vuln/detail/CVE-2021-42810
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0002/MNDT-2022-0002.md
+
+### PoC:
+
+* N/A
+
+
+## CVE-2022-23280
+
+Microsoft Outlook for MacOS contains a Security Feature Bypass Vulnerability prior to version 16.57
+
+### References
+
+* https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23280
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23280
+* https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0003/MNDT-2022-0003.md
 
 ### PoC:
 
