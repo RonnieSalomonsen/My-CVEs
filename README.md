@@ -110,7 +110,7 @@ Microsoft Outlook for MacOS contains a Security Feature Bypass Vulnerability pri
 
 * https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23280
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23280
-* https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0003/MNDT-2022-0003.md
+* https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0004/MNDT-2022-0004.md
 
 ### PoC:
 
