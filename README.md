@@ -132,6 +132,7 @@ Splashtop Remote Business Client for Windows contains a local privilege escalati
 
 * [Splashtop Business App for Windows v3.5.0.0 - released](https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/4416200876187-Splashtop-Business-app-for-Windows-v3-5-0-0-released)
 * [Mitre CVE-2021-42714](https://www.cve.org/CVERecord?id=CVE-2021-42714)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0005/MNDT-2022-0005.md)
 
 ### PoC:
 
@@ -147,6 +148,7 @@ Splashtop Remote Personal Client for Windows contains a local privilege escalati
 
 * [Splashtop Personal App for Windows v.3.4.8.4 - released](https://support-splashtoppersonal.splashtop.com/hc/en-us/articles/4418419700371-Splashtop-Personal-App-for-Windows-v-3-4-8-4-released)
 * [Mitre CVE-2021-42713](https://www.cve.org/CVERecord?id=CVE-2021-42713)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0006/MNDT-2022-0006.md)
 
 ### PoC:
 
@@ -162,6 +164,7 @@ Splashtop Streamer for Windows contains a local privilege escalation vulnerabili
 
 * [Splashtop Streamer for Windows v3.5.0.0 - released](https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/4416188695323-Splashtop-Streamer-version-v3-5-0-0-for-Windows-released-includes-SOS-version-3-5-0-0)
 * [Mitre CVE-2021-42712](https://www.cve.org/CVERecord?id=CVE-2021-42712)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0007/MNDT-2022-0007.md)
 
 ### PoC:
 
