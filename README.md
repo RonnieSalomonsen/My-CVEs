@@ -16,6 +16,7 @@ Check Point Harmony Browse and SandBlast Agent for Browsers for Windows contains
 ### PoC:
 
 * N/A
+<br>
 
 
 ## CVE-2021-42254
@@ -33,6 +34,7 @@ BeyondTrust Privilege Management for Windows contains a local privilege escalati
 ### PoC:
 
 * N/A
+<br>
 
 
 ## CVE-2021-42711
@@ -49,6 +51,7 @@ Barracuda Network Access Client (NAC/VPN) for Windows contains a local privilege
 ### PoC:
 
 * N/A
+<br>
 
 
 ## CVE-2021-41526
@@ -65,6 +68,7 @@ Flexera Revenera InstallShield for Windows prior to version 2021 R2 contains a l
 ### PoC:
 
 * N/A
+<br>
 
 
 ## CVE-2021-30360
@@ -82,6 +86,7 @@ Check Point Enterprise Endpoint Security Client for Windows contains a local pri
 ### PoC:
 
 * N/A
+<br>
 
 
 ## CVE-2021-42810
@@ -100,6 +105,7 @@ Thales SafeNet Agent for Remote Desktop Gateway for Windows contains a local pri
 ### PoC:
 
 * N/A
+<br>
 
 
 ## CVE-2022-23280
@@ -111,6 +117,51 @@ Microsoft Outlook for MacOS contains a Security Feature Bypass Vulnerability pri
 * https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23280
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23280
 * https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0004/MNDT-2022-0004.md
+
+### PoC:
+
+* N/A
+<br>
+
+
+## CVE-2021-42714
+
+Splashtop Remote Business Client for Windows contains a local privilege escalation vulnerability prior to version 3.5.0.0
+
+### References
+
+* [Splashtop Business App for Windows v3.5.0.0 - released](https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/4416200876187-Splashtop-Business-app-for-Windows-v3-5-0-0-released)
+* [Mitre CVE-2021-42714](https://www.cve.org/CVERecord?id=CVE-2021-42714)
+
+### PoC:
+
+* N/A
+<br>
+
+
+## CVE-2021-42713
+
+Splashtop Remote Personal Client for Windows contains a local privilege escalation vulnerability prior to version 3.4.8.4
+
+### References
+
+* [Splashtop Personal App for Windows v.3.4.8.4 - released](https://support-splashtoppersonal.splashtop.com/hc/en-us/articles/4418419700371-Splashtop-Personal-App-for-Windows-v-3-4-8-4-released)
+* [Mitre CVE-2021-42713](https://www.cve.org/CVERecord?id=CVE-2021-42713)
+
+### PoC:
+
+* N/A
+<br>
+
+
+## CVE-2021-42712
+
+Splashtop Streamer for Windows contains a local privilege escalation vulnerability prior to version 3.5.0.0
+
+### References
+
+* [Splashtop Streamer for Windows v3.5.0.0 - released](https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/4416188695323-Splashtop-Streamer-version-v3-5-0-0-for-Windows-released-includes-SOS-version-3-5-0-0)
+* [Mitre CVE-2021-42712](https://www.cve.org/CVERecord?id=CVE-2021-42712)
 
 ### PoC:
 
