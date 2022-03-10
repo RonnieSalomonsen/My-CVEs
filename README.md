@@ -169,3 +169,19 @@ Splashtop Streamer for Windows contains a local privilege escalation vulnerabili
 ### PoC:
 
 * N/A
+<br>
+
+
+## CVE-2022-23296
+
+Microsoft Windows Installer contains a local privilege escalation vulnerability prior to March 2022 security update.
+
+### References
+
+* [Microsoft Advisory](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23296)
+* [Mitre CVE-2022-23296](https://www.cve.org/CVERecord?id=CVE-2022-23296)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0017/MNDT-2022-0017.md)
+
+### PoC:
+
+* N/A
