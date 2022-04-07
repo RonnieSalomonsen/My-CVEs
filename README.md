@@ -185,3 +185,18 @@ Microsoft Windows Installer contains a local privilege escalation vulnerability 
 ### PoC:
 
 * N/A
+<br>
+
+
+## CVE-2021-42255
+
+AppGuard Agent for Windows contains a local privilege escalation vulnerability prior to version 6.7.50.1.
+
+### References
+
+* [Mitre CVE-2021-42255](https://www.cve.org/CVERecord?id=CVE-2021-42255)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0022/MNDT-2022-0022.md)
+
+### PoC:
+
+* N/A
