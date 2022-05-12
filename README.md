@@ -200,3 +200,51 @@ AppGuard Agent for Windows contains a local privilege escalation vulnerability p
 ### PoC:
 
 * N/A
+<br>
+
+
+## CVE-2021-27765
+
+HCL BigFix Server API for Windows contains a local privilege escalation vulnerability prior to version 10.0.6/9.5.19.
+
+### References
+
+* [HCL Security Bulletin](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0098116)
+* [Mitre CVE-2021-27765](https://www.cve.org/CVERecord?id=CVE-2021-27765)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0023/MNDT-2022-0023.md)
+
+### PoC:
+
+* N/A
+<br>
+
+
+## CVE-2021-27766
+
+HCL BigFix Client for Windows contains a local privilege escalation vulnerability prior to version 10.0.6/9.5.19.
+
+### References
+
+* [HCL Security Bulletin](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0098116)
+* [Mitre CVE-2021-27766](https://www.cve.org/CVERecord?id=CVE-2021-27766)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0024/MNDT-2022-0024.md)
+
+### PoC:
+
+* N/A
+<br>
+
+
+## CVE-2021-27767
+
+HCL BigFix Console for Windows contains a local privilege escalation vulnerability prior to version 10.0.6/9.5.19.
+
+### References
+
+* [HCL Security Bulletin](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0098116)
+* [Mitre CVE-2021-27767](https://www.cve.org/CVERecord?id=CVE-2021-27767)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0025/MNDT-2022-0025.md)
+
+### PoC:
+
+* N/A
