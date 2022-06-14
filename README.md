@@ -248,3 +248,19 @@ HCL BigFix Console for Windows contains a local privilege escalation vulnerabili
 ### PoC:
 
 * N/A
+<br>
+
+
+## CVE-2022-22187
+
+Juniper Networks Juniper Identity Management Service (JIMS) for Windows contains a local privilege escalation vulnerability prior to version 1.4.
+
+### References
+
+* [Juniper Networks Security Bulletin](https://kb.juniper.net/JSA69495)
+* [Mitre CVE-2022-22187](https://www.cve.org/CVERecord?id=CVE-2022-22187)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0029/MNDT-2022-0029.md)
+
+### PoC:
+
+* N/A
