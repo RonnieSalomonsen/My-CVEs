@@ -264,3 +264,19 @@ Juniper Networks Juniper Identity Management Service (JIMS) for Windows contains
 ### PoC:
 
 * N/A
+<br>
+
+
+## CVE-2022-21558
+
+Oracle Crystal Ball for Windows contains a local privilege escalation vulnerability which affected version 11.1.2.0.0 - 11.1.2.4.900.
+
+### References
+
+* [Oracle Security Advisory](https://www.oracle.com/security-alerts/cpujul2022.html)
+* [Mitre CVE-2022-21558](https://www.cve.org/CVERecord?id=CVE-2022-21558)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0031/MNDT-2022-0031.md)
+
+### PoC:
+
+* N/A
