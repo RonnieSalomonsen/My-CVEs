@@ -291,7 +291,8 @@ Avaya IP Office for Windows contains a local privilege escalation vulnerability 
 
 * [Avaya Security Advisory](https://download.avaya.com/css/public/documents/101083319)
 * [Mitre CVE-2021-25657](https://www.cve.org/CVERecord?id=CVE-2021-25657)
-
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0037/MNDT-2022-0037.md)
+ 
 ### PoC:
 
 * N/A
