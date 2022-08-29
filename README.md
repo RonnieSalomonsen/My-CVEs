@@ -285,7 +285,7 @@ Oracle Crystal Ball for Windows contains a local privilege escalation vulnerabil
 
 ## CVE-2021-25657
 
-Avaya IP Office for Windows contains a local privilege escalation vulnerability which affected version 11.1 FP2 SP1 and earlier.
+Avaya IP Office Admin Lite and USB Creator for Windows contains a local privilege escalation vulnerability which affected version 11.1 FP2 SP1 and earlier.
 
 ### References
 
