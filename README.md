@@ -296,3 +296,35 @@ Avaya IP Office Admin Lite and USB Creator for Windows contains a local privileg
 ### PoC:
 
 * N/A
+<br>
+
+
+## CVE-2021-41988
+
+Qlik NPrinting Designer for Windows contains a local privilege escalation vulnerability which affected version 21.14.3.0 and earlier.
+
+### References
+
+* [Qlik Security Advisory](https://community.qlik.com/t5/Release-Notes/Qlik-NPrinting-Release-Notes-May-2022-Service-Release-2/ta-p/1981918)
+* [Mitre CVE-2021-41988](https://www.cve.org/CVERecord?id=CVE-2021-41988)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2023/MNDT-2023-0002.md)
+ 
+### PoC:
+
+* N/A
+<br>
+
+
+## CVE-2021-41988
+
+Qlik QlikView for Windows contains a local privilege escalation vulnerability which affected version 12.60.20100.0 and earlier.
+
+### References
+
+* [Qlik Security Advisory](https://community.qlik.com/t5/Release-Notes/QlikView-Release-Notes-May-2022-Initial-Release-to-Service/ta-p/1928353)
+* [Mitre CVE-2021-41989](https://www.cve.org/CVERecord?id=CVE-2021-41989)
+* [Mandiant Vulnerability Disclosures](https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2023/MNDT-2023-0001.md)
+ 
+### PoC:
+
+* N/A
